@@ -1,3 +1,4 @@
+//everything that connect to firebase
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "@firebase/firestore";
 
